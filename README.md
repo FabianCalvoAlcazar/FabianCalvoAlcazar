@@ -18,3 +18,67 @@ Software Developer with experience in full-stack and mobile development, IT supp
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/FabianCalvoAlcazar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/fabian-ca" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+
+## 🧠 Professional Experience & Projects
+
+### 🏢 Asociación Junquillal Guanacaste  
+**SCRUM Master & Software Developer**  
+📅 *2023 – Present*
+
+Led agile development processes by coordinating meetings with stakeholders, gathering requirements, and overseeing the complete software development lifecycle for a real-world production system.
+
+**Key Contributions:**
+- Stakeholder communication and requirement analysis
+- Agile/SCRUM ceremonies facilitation
+- End-to-end application development
+
+**Technologies:**
+`C#` · `.NET` · `SQL`
+
+**Project:**  
+🔹 *Reservations and Management App*
+
+---
+
+### 🗒️ Sticky Notes App  
+**Personal Project**  
+📅 *2024 – Present*
+
+A productivity-focused application that allows users to create, edit, and manage sticky notes using rich text formatting. Includes a secure authentication system based on token-based login.
+
+**Features:**
+- Rich text editor
+- Secure authentication with tokens
+- Persistent data storage
+
+**Technologies:**
+`Angular` · `TypeScript` · `Node.js` · `NoSQL`
+
+---
+
+### 🥗 Nutrimetas  
+**Nutrition School – University of Costa Rica (UCR)**  
+📅 *2024*
+
+A mobile application designed for nutrition professionals and their clients to track progress, set goals, and stay motivated towards a healthier lifestyle.
+
+**Technologies:**
+`React Native` · `Firebase`
+
+---
+
+### 🧪 MEP Química  
+**Ministerio de Educación Pública (Costa Rica)**  
+📅 *2024 – Present*
+
+Educational application developed for the Chemistry Department of Costa Rica’s Ministry of Public Education (MEP), supporting professors and students throughout the learning process.
+
+**Highlights:**
+- Educational content management
+- Student–teacher support tools
+- Scalable and maintainable frontend architecture
+
+**Technologies:**
+`React` · `TypeScript` · `CMS` · `SQL`
+
+---
